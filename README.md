@@ -1,7 +1,7 @@
 helllllllllllllo (this is a test)
 ==============================
 
-My name is Mariko. I am a
+My name is Mariko Davidson. I am a
 
-* City Planner
-* Surfer
+* Urban Planner
+* Badass surfer
